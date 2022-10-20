@@ -1,5 +1,5 @@
 # data-platform-doc-type-sql 
-data-platform-doc-type-sql は、データ連携基盤において、文書タイプを保存するSQLテーブルを作成するためのレポジトリです。   
+data-platform-doc-type-sql は、データ連携基盤において、文書タイプを保存するSQLテーブルを維持・管理するためのレポジトリです。   
 
 ## 前提条件  
 data-platform-doc-type-sql  は、データ連携にあたり、API を利用し、本レポジトリ の sql 設定ファイルの内容は、下記 URL の API 仕様を前提としています。  
